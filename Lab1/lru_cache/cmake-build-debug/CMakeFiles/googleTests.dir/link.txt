@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libgoogleTests.a  CMakeFiles/googleTests.dir/gtest/gtest-all.cc.o CMakeFiles/googleTests.dir/gtest/gtest_main.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libgoogleTests.a
