@@ -8,3 +8,4 @@
 - Lab6: Calculator
 - Lab7: ClockPattern
 - Lab8: AspectOP
+- Lab9: ActorSearcher
